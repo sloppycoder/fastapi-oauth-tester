@@ -1,0 +1,11 @@
+.*
+tests/
+k8s/
+pyproject.toml
+poetry.toml
+poetry.lock
+source.bat
+README.md
+mypy.ini
+start.bat
+x
